@@ -115,8 +115,9 @@ author:
   name             : Yeonseo Choo
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : |
-                      "**Education**"
-                      "Korea University, College of Medicine (2023~)"
+                      **Education**
+                      
+                      Korea University, College of Medicine (2023~)
   location         : "Seoul, South Korea"
   email            : seanchoo03@korea.ac.kr
   links:
