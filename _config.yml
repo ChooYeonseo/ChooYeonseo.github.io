@@ -320,7 +320,7 @@ compress_html:
 
 # Collections
 collections:
-  recipes:
+  paper:
     output: true
     permalink: /:collection/:path/
   pets:
@@ -350,13 +350,13 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _recipes
+  # _paper
   - scope:
       path: ""
-      type: recipes
+      type: paper
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       share: true
   # _pets
   - scope:
