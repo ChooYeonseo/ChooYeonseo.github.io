@@ -5,7 +5,7 @@ main:
   - title: "Publication"
     url: https://mmistakes.github.io/minimal-mistakes/about/
   - title: "Paper Implementation"
-    url: /year-archive/
+    url: /Paper_implementation/
   - title: "Medical Reviews"
     url: /collection-archive/
   - title: "My Experience"
