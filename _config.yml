@@ -112,7 +112,7 @@ analytics:
 
 # Site Author
 author:
-  name             : Yeonseo Choo (Sean Choo)
+  name             : Yeonseo Choo (Sean)
   avatar           : "/assets/images/sean_hero.jpeg"
   bio              : |
                       **Education** 
@@ -129,7 +129,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:seanchoo0825@gmail.com"
+      # url: "mailto:seanchoo0825@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://chooyeonseo.github.io"
