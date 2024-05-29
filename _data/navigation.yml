@@ -1,14 +1,14 @@
 # main links
 main:
-  - title: "BLOG"
-    url: /blog/
+  - title: "About"
+    url: /about/
   - title: "Publication"
     url: /publication/
   - title: "Projects"
     url: /projects/
   - title: "Paper Implementation"
     url: /paper_implementation/
-  - title: "Medical Reviews"
-    url: /medical_reviews/
+  - title: "Medical Study"
+    url: /medical_study/
   - title: "Sitemap"
     url: /sitemap/

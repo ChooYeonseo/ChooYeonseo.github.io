@@ -1,9 +1,9 @@
 ---
 title: Yeonseo's BLOG!
-subtitle: This is were I share the notes that are not related to medicine & code implementations!
+subtitle: These are my various experiences other than academic ones!
 layout: collection
-permalink: /paper_implementation/
-collection: paper
+permalink: /blog/
+collection: blog_posts
 entries_layout: grid
 classes: wide
 ---
