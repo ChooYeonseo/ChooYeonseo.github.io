@@ -382,8 +382,8 @@ defaults:
       share: true
   # _generalmlmethod
   - scope:
-      path: "_mlpaper/generalmlmethod"
-      type: generalmlmethod
+      path: ""
+      type: ml_methology
     values:
       layout: single
       author_profile: false
