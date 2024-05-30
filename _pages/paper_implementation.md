@@ -9,4 +9,5 @@ sidebar:
     nav: "Machine_Leaning"
 ---
 
-This page collects the pages from _mlpaper
+This page collects the pages from _paper_implementation
+
