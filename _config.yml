@@ -345,7 +345,7 @@ collections:
   mlsubjects:
     output: true
     permalink: /:collection/:path/
-  ml_methology:
+  mlmethology:
     output: true
     permalink: /paper_implementation/:collection/:path/
   portfolio:
@@ -380,10 +380,10 @@ defaults:
       layout: single
       author_profile: false
       share: true
-  # _ml_methology
+  # _mlmethology
   - scope:
-      path: "_mlsubjects/"
-      type: ml_methology
+      path: ""
+      type: mlmethology
     values:
       layout: single
       author_profile: false
