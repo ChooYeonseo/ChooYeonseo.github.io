@@ -372,9 +372,9 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _mlpaper
+  # _paper_implementation
   - scope:
-      path: "_mlpaper"
+      path: ""
       type: mlpaper
     values:
       layout: single

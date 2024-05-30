@@ -1,7 +1,7 @@
 ---
 title: Paper Reimplementation
 layout: collection
-collection: mlpaper
+collection: paper_implementation
 permalink: /paper_implementation/
 entries_layout: grid
 classes: wide
