@@ -372,7 +372,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _paper
+  # _mlpaper
   - scope:
       path: ""
       type: mlpaper
@@ -380,13 +380,13 @@ defaults:
       layout: single
       author_profile: false
       share: true
-  # _pets
+  # _generalMLmethod
   - scope:
       path: ""
-      type: pets
+      type: generalMLmethod
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       share: true
   # _portfolio
   - scope:
