@@ -347,7 +347,7 @@ collections:
     permalink: /:collection/:path/
   generalmlmethod:
     output: true
-    permalink: /paper_implementation/:collection/:path/
+    permalink: /:collection/:path/
   portfolio:
     output: true
     permalink: /:collection/:path/
