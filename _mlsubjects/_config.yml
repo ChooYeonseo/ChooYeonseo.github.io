@@ -1,0 +1,18 @@
+
+# Collections
+collections:
+  ml_methology:
+    output: true
+    permalink: /paper_implementation/:collection/:path/
+
+
+# Defaults
+defaults:
+  # _mlmethology
+  - scope:
+      path: ""
+      type: ml_methology
+    values:
+      layout: single
+      author_profile: false
+      share: true
