@@ -342,12 +342,12 @@ compress_html:
 
 # Collections
 collections:
-  mlpaper:
+  paper_implementation:
     output: true
     permalink: /:collection/:path/
-  generalmlmethod:
+  ml_methology:
     output: true
-    permalink: /mlpaper/:collection/:path/
+    permalink: /paper_implementation/:collection/:path/
   portfolio:
     output: true
     permalink: /:collection/:path/
