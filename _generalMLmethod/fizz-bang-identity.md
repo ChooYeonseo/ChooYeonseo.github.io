@@ -1,5 +1,6 @@
 ---
 title: "Fizz Bang Identity"
+permalink: /paper_implementation/ml_methology/fizz/
 excerpt: "Fizz Bang design system including logo mark, website design, and branding applications."
 header:
   image: /assets/images/unsplash-gallery-image-2.jpg
