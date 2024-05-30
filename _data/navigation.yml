@@ -12,3 +12,46 @@ main:
     url: /medical_study/
   - title: "Sitemap"
     url: /sitemap/
+
+Machine_Leaning:
+  - title: "General Machine Learning Methods"
+    url: /paper_implementation/ml_methology/
+    childern:
+      - title: "Optimization"
+        url: /paper_implementation/ml_methology/optimization/
+      - title: "Activation Functions"
+        url: /paper_implementation/ml_methology/active_func/
+      - title: "Normalization"
+        url: /paper_implementation/ml_methology/normal/
+      - title: "Regularization"
+        url: /paper_implementation/ml_methology/regularization/
+  - title: "Natural Language Processing (NLP)"
+    url: /paper_implementation/nlp/
+    childern:
+      - title: "Attention is All You Need"
+        url: /paper_implementation/nlp/attention/
+      - title: "GloVe: Global Vectors for Word Representation"
+        url: /paper_implementation/nlp/glove/
+      # - title: "Normalization"
+      #   url: /paper_implementation/nlp/
+      # - title: "Regularization"
+      #   url: /paper_implementation/nlp/
+  - title: "Computer Vision (CV)"
+    url: /paper_implementation/cv/
+    childern:
+      - title: "ImageNet Classification with Deep Convolutional Neural Networks"
+        url: /paper_implementation/nlp/AlexNet/
+      # - title: "GloVe: Global Vectors for Word Representation"
+      #   url: /paper_implementation/nlp/glove/
+
+Gen-Mthd: 
+  - title: "General Machine Learning Methods"
+    childern:
+      - title: "Optimization"
+        url: /paper_implementation/ml_methology/optimization/
+      - title: "Activation Functions"
+        url: /paper_implementation/ml_methology/active_func/
+      - title: "Normalization"
+        url: /paper_implementation/ml_methology/normal/
+      - title: "Regularization"
+        url: /paper_implementation/ml_methology/regularization/
