@@ -344,10 +344,10 @@ compress_html:
 collections:
   mlpaper:
     output: true
-    permalink: /mlpaper/:path/
+    permalink: /:collection/:path/
   generalmlmethod:
     output: true
-    permalink: /mlpaper/generalmlmethod/:path/
+    permalink: /mlpaper/:collection/:path/
   portfolio:
     output: true
     permalink: /:collection/:path/
