@@ -55,3 +55,11 @@ Gen-Mthd:
         url: /paper_implementation/ml_methology/normal/
       - title: "Regularization"
         url: /paper_implementation/ml_methology/regularization/
+
+NLP:
+- title: "Natural Language Processing (NLP)"
+  childern:
+    - title: "Attention is All You Need"
+      url: /paper_implementation/nlp/attention/
+    - title: "GloVe: Global Vectors for Word Representation"
+      url: /paper_implementation/nlp/glove/
