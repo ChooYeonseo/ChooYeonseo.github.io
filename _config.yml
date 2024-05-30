@@ -342,7 +342,7 @@ compress_html:
 
 # Collections
 collections:
-  paper:
+  mlpaper:
     output: true
     permalink: /:collection/:path/
   pets:
@@ -375,7 +375,7 @@ defaults:
   # _paper
   - scope:
       path: ""
-      type: paper
+      type: mlpaper
     values:
       layout: single
       author_profile: false

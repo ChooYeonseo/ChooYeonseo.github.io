@@ -1,5 +1,6 @@
 ---
 title: "General Machine Learning Methods"
+permalink: /paper_implementation/ml_methology/
 layout: collection
 collection: generalMLmethod
 categories:
