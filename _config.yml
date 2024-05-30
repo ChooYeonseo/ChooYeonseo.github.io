@@ -345,7 +345,7 @@ collections:
   mlpaper:
     output: true
     permalink: /:collection/:path/
-  generalMLmethod:
+  generalmlmethod:
     output: true
     permalink: /:collection/:path/
   portfolio:
@@ -383,7 +383,7 @@ defaults:
   # _generalMLmethod
   - scope:
       path: ""
-      type: generalMLmethod
+      type: generalmlmethod
     values:
       layout: single
       author_profile: false
