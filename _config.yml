@@ -375,7 +375,7 @@ defaults:
   # _paper_implementation
   - scope:
       path: ""
-      type: mlpaper
+      type: paper_implementation
     values:
       layout: single
       author_profile: false
