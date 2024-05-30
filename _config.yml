@@ -314,7 +314,7 @@ whitelist:
 
 category_archive:
   type: jekyll-archives
-  path: /paper_implementation/
+  path: /categories/
 tag_archive:
   type: jekyll-archives
   path: /tags/
