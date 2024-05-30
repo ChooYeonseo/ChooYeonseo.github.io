@@ -374,15 +374,15 @@ defaults:
       author_profile: true
   # _mlpaper
   - scope:
-      path: ""
+      path: "_mlpaper"
       type: mlpaper
     values:
       layout: single
       author_profile: false
       share: true
-  # _generalMLmethod
+  # _generalmlmethod
   - scope:
-      path: ""
+      path: "_mlpaper/_generalmlmethod"
       type: generalmlmethod
     values:
       layout: single
