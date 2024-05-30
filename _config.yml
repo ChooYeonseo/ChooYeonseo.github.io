@@ -345,7 +345,7 @@ collections:
   mlpaper:
     output: true
     permalink: /:collection/:path/
-  pets:
+  generalMLmethod:
     output: true
     permalink: /:collection/:path/
   portfolio:
