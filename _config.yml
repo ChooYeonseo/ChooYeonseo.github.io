@@ -372,7 +372,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _paper_implementation
+  # _mlsubjects
   - scope:
       path: ""
       type: mlsubjects
