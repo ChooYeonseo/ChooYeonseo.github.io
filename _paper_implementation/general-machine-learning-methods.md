@@ -1,7 +1,7 @@
 ---
 title: "General Machine Learning Methods"
 permalink: /paper_implementation/ml_methology/
-layout: single
+layout: collection
 collection: ml_methology
 categories:
   - Machine learning
@@ -14,4 +14,5 @@ sidebar:
     nav: Gen-Mthd
 ---
 
+#Please work...
 

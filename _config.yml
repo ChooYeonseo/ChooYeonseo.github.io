@@ -382,7 +382,7 @@ defaults:
       share: true
   # _ml_methology
   - scope:
-      path: "paper_implementation"
+      path: "_paper_implementation/_ml_methology"
       type: ml_methology
     values:
       layout: single
