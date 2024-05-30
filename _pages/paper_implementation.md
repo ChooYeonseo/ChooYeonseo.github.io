@@ -1,8 +1,7 @@
 ---
 title: Paper Reimplementation
-layout: collection
+layout: categories
 permalink: /paper_implementation/
-collection: paper
 entries_layout: grid
 classes: wide
 ---
