@@ -344,10 +344,10 @@ compress_html:
 collections:
   mlpaper:
     output: true
-    permalink: /:collection/:path/
+    permalink: /mlpaper/:path/
   generalmlmethod:
     output: true
-    permalink: /:collection/:path/
+    permalink: /mlpaper/generalmlmethod/:path/
   portfolio:
     output: true
     permalink: /:collection/:path/
@@ -382,7 +382,7 @@ defaults:
       share: true
   # _generalmlmethod
   - scope:
-      path: "_mlpaper/_generalmlmethod"
+      path: "_mlpaper/generalmlmethod"
       type: generalmlmethod
     values:
       layout: single
