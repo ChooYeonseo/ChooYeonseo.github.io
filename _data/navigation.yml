@@ -17,8 +17,8 @@ Machine_Leaning:
   - title: "General Machine Learning Methods"
     url: /paper_implementation/ml_methology/
     childern:
-      - title: "Optimization"
-        url: /paper_implementation/ml_methology/optimization/
+      - title: "Adam Optimization"
+        url: /paper_implementation/ml_methology/optimization-adam/
       - title: "Activation Functions"
         url: /paper_implementation/ml_methology/active_func/
       - title: "Normalization"
@@ -48,7 +48,9 @@ Gen-Mthd:
   - title: "General Machine Learning Methods"
     childern:
       - title: "Optimization"
-        url: /paper_implementation/ml_methology/optimization/
+        url: /paper_implementation/ml_methology/optimization-adam/
+      - title: "Initialization"
+        url: /paper_implementation/ml_methology/initialization-xavier/  
       - title: "Activation Functions"
         url: /paper_implementation/ml_methology/active_func/
       - title: "Normalization"
