@@ -45,21 +45,21 @@ Machine_Leaning:
       #   url: /paper_implementation/nlp/glove/
 
 Gen-Mthd: 
-  - title: "General Machine Learning Methods"
+  - title: General Machine Learning Methods
     childern:
       - title: "Optimization"
-        url: /paper_implementation/ml_methology/optimization-adam/
+        url: /paper-implementation/ml-methology/optimization-adam/
       - title: "Initialization"
-        url: /paper_implementation/ml_methology/initialization-xavier/  
+        url: /paper-implementation/ml-methology/initialization-xavier/  
       - title: "Activation Functions"
-        url: /paper_implementation/ml_methology/active_func/
+        url: /paper-implementation/ml-methology/active-func/
       - title: "Normalization"
-        url: /paper_implementation/ml_methology/normal/
+        url: /paper-implementation/ml-methology/normal/
       - title: "Regularization"
-        url: /paper_implementation/ml_methology/regularization/
+        url: /paper-implementation/ml-methology/regularization/
 
 NLP:
-- title: "Natural Language Processing (NLP)"
+- title: Natural Language Processing (NLP)
   childern:
     - title: "Attention is All You Need"
       url: /paper_implementation/nlp/attention/

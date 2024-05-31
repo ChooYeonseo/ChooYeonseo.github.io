@@ -1,6 +1,6 @@
 ---
 title: "Xavier Initialization"
-permalink: /paper_implementation/ml_methology/initialization-xavier/
+permalink: /paper-implementation/ml-methology/initialization-xavier/
 excerpt: "Understanding the difficulty of training deep feedforward neural networks"
 header:
   image: /assets/images/xavier.png

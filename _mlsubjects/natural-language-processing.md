@@ -1,8 +1,6 @@
 ---
 title: "Natural Language Processing (NLP)"
-permalink: /paper_implementation/nlp/
-layout: collection
-collection: ml_methology
+permalink: /paper-implementation/nlp/
 categories:
   - Machine learning
 excerpt: "About natural language processors including Transformers, GPT, BERT and etc."

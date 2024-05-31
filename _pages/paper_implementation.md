@@ -1,8 +1,8 @@
 ---
 title: Paper Reimplementation
 layout: collection
-collection: mlmethology, nlp
-permalink: /paper_implementation/
+collection: mlsubjects
+permalink: /paper-implementation/
 entries_layout: grid
 classes: wide
 author_profile: false
