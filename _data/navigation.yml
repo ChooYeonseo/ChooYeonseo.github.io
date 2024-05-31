@@ -7,40 +7,40 @@ main:
   - title: "Projects"
     url: /projects/
   - title: "Paper Implementation"
-    url: /paper_implementation/
+    url: /paper-implementation/
   - title: "Medical Study"
-    url: /medical_study/
+    url: /medical-study/
   - title: "Sitemap"
     url: /sitemap/
 
 Machine_Leaning:
   - title: "General Machine Learning Methods"
-    url: /paper_implementation/ml_methology/
+    url: /paper-implementation/ml-methology/
     childern:
       - title: "Adam Optimization"
-        url: /paper_implementation/ml_methology/optimization-adam/
+        url: /paper-implementation/ml-methology/optimization-adam/
       - title: "Activation Functions"
-        url: /paper_implementation/ml_methology/active_func/
+        url: /paper-implementation/ml-methology/active_func/
       - title: "Normalization"
-        url: /paper_implementation/ml_methology/normal/
+        url: /paper-implementation/ml-methology/normal/
       - title: "Regularization"
-        url: /paper_implementation/ml_methology/regularization/
+        url: /paper-implementation/ml-methology/regularization/
   - title: "Natural Language Processing (NLP)"
-    url: /paper_implementation/nlp/
+    url: /paper-implementation/nlp/
     childern:
       - title: "Attention is All You Need"
-        url: /paper_implementation/nlp/attention/
+        url: /paper-implementation/nlp/attention/
       - title: "GloVe: Global Vectors for Word Representation"
-        url: /paper_implementation/nlp/glove/
+        url: /paper-implementation/nlp/glove/
       # - title: "Normalization"
       #   url: /paper_implementation/nlp/
       # - title: "Regularization"
       #   url: /paper_implementation/nlp/
   - title: "Computer Vision (CV)"
-    url: /paper_implementation/cv/
+    url: /paper-implementation/cv/
     childern:
       - title: "ImageNet Classification with Deep Convolutional Neural Networks"
-        url: /paper_implementation/nlp/AlexNet/
+        url: /paper-implementation/nlp/AlexNet/
       # - title: "GloVe: Global Vectors for Word Representation"
       #   url: /paper_implementation/nlp/glove/
 
@@ -62,6 +62,6 @@ NLP:
 - title: Natural Language Processing (NLP)
   childern:
     - title: "Attention is All You Need"
-      url: /paper_implementation/nlp/attention/
+      url: /paper-implementation/nlp/attention/
     - title: "GloVe: Global Vectors for Word Representation"
-      url: /paper_implementation/nlp/glove/
+      url: /paper-implementation/nlp/glove/
