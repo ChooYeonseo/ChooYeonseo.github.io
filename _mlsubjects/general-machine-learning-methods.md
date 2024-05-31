@@ -9,7 +9,7 @@ classes: wide
 header:
   teaser: assets/images/GMLM-main-img.jpeg
 sidebar:
-    nav: Gen-Mthd
+    nav: "Gen-Mthd"
 ---
 
 # please select topic you are interested from the side-bar!
