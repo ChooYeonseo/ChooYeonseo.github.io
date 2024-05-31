@@ -1,7 +1,7 @@
 ---
 title: "General Machine Learning Methods"
 permalink: /paper_implementation/ml_methology/
-layout: archive
+layout: single
 categories:
   - Machine learning
 excerpt: "Typical ML methods. Including optimization, active functions, normalization, regularization and etc. Methods introduced here are the foundation for advanced deep learning methods"
@@ -13,9 +13,4 @@ sidebar:
     nav: Gen-Mthd
 ---
 
-{% include base_path %}
-
-
-{% for post in site.mlmethology %}
-  {% include archive-single.html %}
-{% endfor %}
+# please select topic you are interested from the side-bar!
