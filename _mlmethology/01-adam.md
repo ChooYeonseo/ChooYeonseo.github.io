@@ -1,5 +1,6 @@
 ---
 title: "Adam Optimization"
+layout: single
 permalink: /paper-implementation/ml-methology/optimization-adam/
 excerpt: "Adam: A Method for Stochastic Optimization"
 header:
