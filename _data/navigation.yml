@@ -46,6 +46,7 @@ Machine_Leaning:
 
 Gen-Mthd: 
   - title: General Machine Learning Methods
+    url: /paper-implementation/ml-methology/
     childern:
       - title: "Optimization"
         url: /paper-implementation/ml-methology/optimization-adam/
@@ -60,6 +61,7 @@ Gen-Mthd:
 
 NLP:
 - title: Natural Language Processing (NLP)
+  url: /paper-implementation/nlp/
   childern:
     - title: "Attention is All You Need"
       url: /paper-implementation/nlp/attention/
