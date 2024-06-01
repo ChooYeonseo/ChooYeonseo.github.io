@@ -293,12 +293,12 @@ whitelist:
 #  - <base_path>/categories/my-awesome-category/index.html ~> path: /categories/
 #  - <base_path>/my-awesome-category/index.html ~> path: /
 
-# category_archive:
-#   type: liquid
-#   path: /categories/
-# tag_archive:
-#   type: liquid
-#   path: /tags/
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid
+  path: /tags/
 
 # https://github.com/jekyll/jekyll-archives
 # jekyll-archives:
@@ -312,23 +312,23 @@ whitelist:
 #     category: /categories/:name/
 #     tag: /tags/:name/
 
-category_archive:
-  type: jekyll-archives
-  path: /categories/
-tag_archive:
-  type: jekyll-archives
-  path: /tags/
+# category_archive:
+#   type: jekyll-archives
+#   path: /categories/
+# tag_archive:
+#   type: jekyll-archives
+#   path: /tags/
 
-jekyll-archives:
-  enabled:
-    - categories
-    - tags
-  layouts:
-    category: archive-taxonomy
-    tag: archive-taxonomy
-  permalinks:
-    category: /categories/:name/
-    tag: /tags/:name/
+# jekyll-archives:
+#   enabled:
+#     - categories
+#     - tags
+#   layouts:
+#     category: archive-taxonomy
+#     tag: archive-taxonomy
+#   permalinks:
+#     category: /categories/:name/
+#     tag: /tags/:name/
 
 
 
@@ -345,9 +345,6 @@ collections:
   mlsubjects:
     output: true
     permalink: /:collection/:path/
-  mlmethology:
-    output: true
-    permalink: /paper_implementation/:collection/:path/
   portfolio:
     output: true
     permalink: /:collection/:path/
@@ -381,8 +378,8 @@ defaults:
       share: true
   # _mlmethology
   - scope:
-      path: ""
-      type: mlmethology
+      path: "_mlsubjects/"
+      type: ml-methology
     values:
       layout: single
       author_profile: false
