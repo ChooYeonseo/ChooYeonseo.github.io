@@ -18,7 +18,7 @@ Machine_Leaning:
     url: /paper-implementation/ml-methology/
     childern:
       - title: "Adam Optimization"
-        url: /paper-implementation/ml-methology/optimization-adam/
+        url: /ml-methology/optimization-adam/
       - title: "Activation Functions"
         url: /paper-implementation/ml-methology/active_func/
       - title: "Normalization"
