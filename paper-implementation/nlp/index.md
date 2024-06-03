@@ -1,5 +1,6 @@
 ---
 title: "Natural Language Processing (NLP)"
+layout: single
 permalink: /paper-implementation/nlp/
 categories:
   - Machine learning
@@ -9,7 +10,7 @@ classes: wide
 header:
   teaser: assets/images/NLP-main-img.jpeg
 sidebar:
-    nav: NLP
+    nav: "NLP"
 ---
 
 #Please work...2
