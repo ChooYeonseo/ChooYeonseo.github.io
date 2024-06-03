@@ -1,7 +1,7 @@
 ---
 title: Paper Reimplementation
 layout: collection
-collection: mlsubjects
+collection: ml-methology nlp
 permalink: /paper-implementation/
 entries_layout: grid
 classes: wide

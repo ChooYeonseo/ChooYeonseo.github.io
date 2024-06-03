@@ -1,5 +1,6 @@
 ---
 title: "General Machine Learning Methods"
+layout: single
 permalink: /paper-implementation/ml-methology/
 categories:
   - Machine learning

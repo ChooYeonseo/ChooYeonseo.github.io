@@ -5,7 +5,7 @@ permalink: /paper-implementation/ml-methology/initialization-xavier/
 excerpt: "Understanding the difficulty of training deep feedforward neural networks"
 header:
   image: /assets/images/xavier.png
-  teaser: assets/images/xavier.png
+  teaser: /assets/images/xavier.png
 sidebar:
   nav: Gen-Mthd
 ---

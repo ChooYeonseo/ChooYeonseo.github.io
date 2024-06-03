@@ -4,8 +4,8 @@ layout: single
 permalink: /paper-implementation/ml-methology/optimization-adam/
 excerpt: "Adam: A Method for Stochastic Optimization"
 header:
-  image: /assets/images/Adam.jpg
-  teaser: assets/images/Adam.jpg
+  image: /assets/images/Adam.png
+  teaser: /assets/images/Adam.png
 sidebar:
   nav: Gen-Mthd
 ---
