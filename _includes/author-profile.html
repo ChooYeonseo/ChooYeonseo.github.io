@@ -17,7 +17,9 @@
     </h3>
     {% if author.bio %}
       <div class="author__bio p-note" itemprop="description">
-        {{ author.bio | markdownify }}
+        <p style="margin-block-start:10px; margin-block-end: 10px">
+          {{author.bio}}
+        </p>
       </div>
     {% endif %}
   </div>

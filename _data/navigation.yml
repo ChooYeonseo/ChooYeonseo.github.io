@@ -1,7 +1,7 @@
 # main links
 main:
-  - title: "About"
-    url: /about/
+  - title: "BIO"
+    url: /bio/
   - title: "Publication"
     url: /publication/
   - title: "Projects"
@@ -16,9 +16,9 @@ main:
 Machine_Leaning:
   - title: "General Machine Learning Methods"
     url: /paper-implementation/ml-methology/
-    childern:
+    children:
       - title: "Adam Optimization"
-        url: /ml-methology/optimization-adam/
+        url: /paper-implementation/ml-methology/optimization-adam/
       - title: "Activation Functions"
         url: /paper-implementation/ml-methology/active_func/
       - title: "Normalization"
@@ -27,7 +27,7 @@ Machine_Leaning:
         url: /paper-implementation/ml-methology/regularization/
   - title: "Natural Language Processing (NLP)"
     url: /paper-implementation/nlp/
-    childern:
+    children:
       - title: "Attention is All You Need"
         url: /paper-implementation/nlp/attention/
       - title: "GloVe: Global Vectors for Word Representation"
@@ -38,7 +38,7 @@ Machine_Leaning:
       #   url: /paper_implementation/nlp/
   - title: "Computer Vision (CV)"
     url: /paper-implementation/cv/
-    childern:
+    children:
       - title: "ImageNet Classification with Deep Convolutional Neural Networks"
         url: /paper-implementation/nlp/AlexNet/
       # - title: "GloVe: Global Vectors for Word Representation"
@@ -47,22 +47,16 @@ Machine_Leaning:
 Gen-Mthd: 
   - title: General Machine Learning Methods
     url: /paper-implementation/ml-methology/
-    childern:
-      - title: "Optimization"
+    children:
+      - title: "Adam Optimization"
         url: /paper-implementation/ml-methology/optimization-adam/
       - title: "Initialization"
         url: /paper-implementation/ml-methology/initialization-xavier/  
-      - title: "Activation Functions"
-        url: /paper-implementation/ml-methology/active-func/
-      - title: "Normalization"
-        url: /paper-implementation/ml-methology/normal/
-      - title: "Regularization"
-        url: /paper-implementation/ml-methology/regularization/
 
 NLP:
 - title: Natural Language Processing (NLP)
   url: /paper-implementation/nlp/
-  childern:
+  children:
     - title: "Attention is All You Need"
       url: /paper-implementation/nlp/attention/
     - title: "GloVe: Global Vectors for Word Representation"

@@ -115,16 +115,17 @@ analytics:
 author:
   name             : Yeonseo Choo (Sean)
   avatar           : "/assets/images/sean_hero.jpeg"
-  bio              : |
-                      **Education** 
+  bio              : <strong>Education</strong><ul style="padding-inline-start:20px;margin-block-start:10px;"><li>Korea University, College of Medicine (2023~)</li><li>UC Berkeley, Summer School (2022)</li><li>KAIST (2022)</li><li>Korea Science Academy of KAIST (2019~2021)</li></ul>
+  # |
+  #                     **Education** 
           
-                      Korea University, College of Medicine (2023~)
+  #                     Korea University, College of Medicine (2023~)
                       
-                      UC Berkeley, Summer School (2022)
+  #                     UC Berkeley, Summer School (2022)
                       
-                      KAIST (2022)
+  #                     KAIST (2022)
                       
-                      Korea Science Academy of KAIST (2019~2021)
+  #                     Korea Science Academy of KAIST (2019~2021)
   location         : "Seoul, South Korea"
   email            : seanchoo03@korea.ac.kr
   links:
@@ -174,6 +175,8 @@ footer:
 include:
   - .htaccess
   - _pages
+  - /paper-implementation/nlp/
+  - /paper-implementation/ml-methology/
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -345,6 +348,8 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
+  ppi:
+    ouput: true
 
 
 # Defaults

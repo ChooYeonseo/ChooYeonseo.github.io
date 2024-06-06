@@ -1,6 +1,7 @@
 ---
 title: "Natural Language Processing (NLP)"
 layout: single
+collection: nlp
 permalink: /paper-implementation/nlp/
 categories:
   - Machine learning
