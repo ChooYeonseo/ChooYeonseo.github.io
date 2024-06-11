@@ -26,33 +26,31 @@ toc_label: "Introducing Myself!"
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Education Timeline</title>
-    <link rel="stylesheet" href="./assests/css/timetable.scss">
 </head>
 <body>
     <div class="timeline">
         <div class="timeline-item">
             <div class="timeline-content">
                 <h2>2023 ~ Present</h2>
-                <p>College of Medicine - Korea University</p>
+                <p>College of Medicine - <strong>Korea University </strong> </p>
             </div>
         </div>
         <div class="timeline-item">
             <div class="timeline-content">
                 <h2>2022</h2>
-                <p>Summer School - University of California, Berkeley</p>
+                <p>Summer School - <strong>University of California, Berkeley</strong></p>
             </div>
         </div>
         <div class="timeline-item">
             <div class="timeline-content">
                 <h2>2022</h2>
-                <p>Korea Advanced Institute of Science and Technology (KAIST) (dropped out)</p>
+                <p><strong>Korea Advanced Institute of Science and Technology (KAIST)</strong> (dropped out)</p>
             </div>
         </div>
         <div class="timeline-item">
             <div class="timeline-content">
                 <h2>2019 ~ 2021</h2>
-                <p>Korea Science Academy of KAIST</p>
+                <p><strong>Korea Science Academy of KAIST</strong></p>
             </div>
         </div>
     </div>
