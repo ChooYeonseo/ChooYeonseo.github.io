@@ -2,8 +2,8 @@
 main:
   - title: "BIO"
     url: /bio/
-  - title: "Publication"
-    url: /publication/
+  - title: "Study Blog"
+    url: "https://chooyeonseo.tistory.com/"
   - title: "Projects"
     url: /projects/
   - title: "Paper Implementation"
